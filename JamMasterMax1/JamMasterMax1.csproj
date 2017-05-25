@@ -95,6 +95,9 @@
     <Content Include="Web.config" />
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
+    <Content Include="Scripts\jquery-3.2.1.js" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Scripts\bootstrap.min.js" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
