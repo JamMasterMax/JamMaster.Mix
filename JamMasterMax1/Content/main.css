@@ -1,0 +1,10 @@
+﻿#mainContainer {
+    text-align:center;
+}
+.listenOption {
+    /*display:block;*/
+    margin:5px
+}
+    .listenOption img {
+        width: 100px;
+    }
