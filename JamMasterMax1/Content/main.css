@@ -1,10 +1,36 @@
-﻿#mainContainer {
+﻿
+#mainContainer{
     text-align:center;
 }
-.listenOption {
-    /*display:block;*/
-    margin:5px
+
+#titleDescription{
+    margin-bottom: 15px;
 }
-    .listenOption img {
+
+a.listenOption {
+    margin: 10px;
+    width: 100px;
+    text-decoration: none;
+}
+    a.listenOption img{
         width: 100px;
     }
+
+img.appIcon {
+    cursor: pointer;
+    max-width: 100%;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+    img.appIcon:hover {
+        -moz-transform: scale(1.25);
+        -webkit-transform: scale(1.25);
+        transform: scale(1.25);
+    }
+
+#mainMixPic {
+    display: block;
+    width: 66%;
+    margin: 20px auto;
+}
