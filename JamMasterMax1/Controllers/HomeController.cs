@@ -17,6 +17,8 @@ namespace JamMasterMax1.Controllers
             ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
             ViewData["Runtime"] = isMono ? "Mono" : ".NET";
 
+            ViewData["Tracks"] = TrackManager.GetTracks();
+
             return View();
         }
     }
