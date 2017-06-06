@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Mvc.Ajax;
+using JamMasterMax1.App_Data;
 
 namespace JamMasterMax1.Controllers
 {

@@ -78,7 +78,7 @@
   <ItemGroup>
     <ProjectReference Include="..\JamMasterMax1\JamMasterMax1.csproj">
       <Project>{59ABD5AC-ED45-4428-958E-B669CE70BF7B}</Project>
-      <Name>JamMasterMax1</Name>
+      <Name>JamMasterMix1</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

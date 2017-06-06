@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamMasterMax1", "JamMasterMax1\JamMasterMax1.csproj", "{59ABD5AC-ED45-4428-958E-B669CE70BF7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamMasterMix1", "JamMasterMax1\JamMasterMix1.csproj", "{59ABD5AC-ED45-4428-958E-B669CE70BF7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamMasterMax1.Tests", "JamMasterMax1.Tests\JamMasterMax1.Tests.csproj", "{150CFC2F-F5EE-4B63-BE25-4E3113638308}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamMasterMix1.Tests", "JamMasterMax1.Tests\JamMasterMix1.Tests.csproj", "{150CFC2F-F5EE-4B63-BE25-4E3113638308}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
