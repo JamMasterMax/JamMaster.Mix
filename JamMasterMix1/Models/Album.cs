@@ -13,20 +13,20 @@ namespace JamMasterMax1.Models
             get; set;
         }
 
-        public Guid ArtistID
+        public Guid AlbumArtistID
         {
             get; set;
         }
 
-        public Guid AlbumGenreID
-        {
-            get; set;
-        }
+  //      public DateTime AlbumReleaseDate
+  //      {
+  //          get; set;
+  //      }
 
-        public DateTime AlbumReleaseDate
-        {
-            get; set;
-        }
+		//public Guid AlbumGenreID
+		//{
+		//	get; set;
+		//}
 
         public Album()
         {

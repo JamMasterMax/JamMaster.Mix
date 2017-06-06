@@ -23,20 +23,20 @@ namespace JamMasterMax1.Models
             get; set;
         }
 
-		public Guid TrackFeature1ArtistID
-		{
-			get; set;
-		}
+		//public Guid TrackFeature1ArtistID
+		//{
+		//	get; set;
+		//}
 
-		public Guid TrackFeature2ArtistID
-		{
-			get; set;
-		}
+		//public Guid TrackFeature2ArtistID
+		//{
+		//	get; set;
+		//}
 
-		public Guid TrackFeature3ArtistID
-		{
-			get; set;
-		}
+		//public Guid TrackFeature3ArtistID
+		//{
+		//	get; set;
+		//}
 
 		public Track()
         {
