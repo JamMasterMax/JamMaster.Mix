@@ -79,6 +79,7 @@
     <Folder Include="Scripts\" />
     <Folder Include="Content\Assests\" />
     <Folder Include="App_Data\" />
+    <Folder Include="App_Code\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
@@ -91,10 +92,10 @@
     <Compile Include="Models\Artist.cs" />
     <Compile Include="Models\Album.cs" />
     <Compile Include="Models\Genre.cs" />
-    <Compile Include="App_Data\TrackManager.cs" />
     <Compile Include="Models\TrackRepository_1704.cs" />
     <Compile Include="Models\Mix.cs" />
     <Compile Include="Models\MixTrack.cs" />
+    <Compile Include="App_Code\TrackManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
