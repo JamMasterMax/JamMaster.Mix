@@ -1,19 +1,40 @@
-﻿
-#mainContainer{
-    text-align:center;
+﻿#mainContainer{
+
+}
+
+#header, #footer {
+    padding:0 20px;
+    background-color: #00728d;
+    color: white;
+}
+#footer {
+    text-align: right;
+}
+
+#bodyContent {
+    padding: 20px;
+    text-align: center;
+}
+
+#bodyA {
+    margin: 0 auto 15px;
+}
+
+#title{
+    margin-bottom:10px
 }
 
 #titleDescription{
-    margin-bottom: 15px;
+    margin: 0 auto 15px;
 }
 
 a.listenOption {
     margin: 10px;
-    width: 100px;
+    width: 110px;
     text-decoration: none;
 }
     a.listenOption img{
-        width: 100px;
+        width: 110px;
     }
 
 img.appIcon {
@@ -31,6 +52,6 @@ img.appIcon {
 
 #mainMixPic {
     display: block;
-    width: 66%;
-    margin: 20px auto;
+    width: 90%;
+    margin: auto;
 }

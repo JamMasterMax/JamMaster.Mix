@@ -115,6 +115,8 @@
     <Content Include="Content\Assests\mixcloud-600.jpg" />
     <Content Include="Content\Assests\Mixcloud-logo.jpg" />
     <Content Include="Content\Assests\17-04 MixPic.JPG" />
+    <Content Include="Content\w3.css" />
+    <Content Include="Content\normalize.css" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
