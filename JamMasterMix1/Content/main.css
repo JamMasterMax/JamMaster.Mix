@@ -8,11 +8,13 @@
     color: white;
 }
 #footer {
-    text-align: right;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 #bodyContent {
-    padding: 20px;
+    padding: 20px 20px 33px;
     text-align: center;
 }
 
@@ -54,4 +56,10 @@ img.appIcon {
     display: block;
     width: 90%;
     margin: auto;
+}
+
+#footerPad{
+    clear:both;
+    height:20px;
+    margin-bottom:0;
 }
